@@ -28,7 +28,7 @@ document.getElementById('p4').innerHTML = "After creating a new array in which e
 array.pop();
 array.shift();
 document.getElementById('p5').innerHTML = "After dropping the first and last objects in the array 'array'," +
-"the value of 'value' is still" + value + " and the value of 'array' is " + array + ".";
+"the value of 'value' is still " + value + " and the value of 'array' is " + array + ".";
 
 //6. Create a new variable. Loop backwards through the array and store each value into the new Variable, combining each of the values of that array (backwards remember!)
 var nuString = "";
